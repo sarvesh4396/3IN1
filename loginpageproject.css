@@ -1,0 +1,140 @@
+body {
+  background-size: 90%;
+  background-image: url("noslifactory-r4i36eR4g_g-unsplash.jpg");
+}
+h1 {
+  color: #0181bb;
+  margin: 20px 400px 0px 400px;
+  background-color: #e8d71e;
+  font-size: 60px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: center;
+  font-weight: 800;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  box-shadow: 8px 8px rgb(141, 156, 7);
+  text-shadow: 2.5px 2px #012f64;
+}
+
+::placeholder {
+  color: #0181bb;
+}
+input:hover::-webkit-input-placeholder {
+  color: #e8d71e;
+}
+input {
+  font-size: 10px;
+  outline: none;
+  background: transparent;
+  color: #0181bb;
+  margin-left: 100px;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 0px;
+  padding: 8px;
+  background-color: #e8d71e;
+  box-shadow: 2px 3px rgb(141, 156, 7);
+  font-weight: 800;
+  position: absolute;
+  border-radius: 5px;
+}
+input:hover {
+  font-size: 15px;
+  border-radius: 5px;
+  background-color: #0181bb;
+  color: #e8d71e;
+  text-shadow: 1.5px 2px rgb(141, 156, 7);
+}
+.container {
+  margin: 00px 400px 0px 400px;
+  text-align: left;
+  background-color: #0181bb;
+  padding: 60px 0 100px 0;
+  box-shadow: 8px 8px #012f64;
+  border-bottom-left-radius: 5px;
+}
+h4 {
+  margin-top: 70px;
+  font-size: 30px;
+  font-weight: 800;
+  background-color: #e8d71e;
+  color: #0181bb;
+  margin-left: 60px;
+  margin-right: 60px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  margin-bottom: 0px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  text-shadow: 2px 1.5px #012f64;
+  box-shadow: 4px 6px rgb(141, 156, 7);
+}
+button {
+  color: #0181bb;
+  background-color: #e8d71e;
+  margin-left: 20px;
+  border-radius: 5px;
+  padding: 4px;
+  box-shadow: 1px 1.5px rgb(141, 156, 7);
+  border: none;
+  font-weight: 800;
+  outline: none;
+  margin-top: 0px;
+  margin-left: 550px;
+  position: absolute;
+}
+button:hover {
+  color: #e8d71e;
+  background-color: #0181bb;
+  font-size: 18px;
+  border-radius: 10px;
+  box-shadow: 2px 3px rgb(141, 156, 7);
+  border: none;
+  cursor: grab;
+  outline: none;
+  text-shadow: 1.5px 2px rgb(141, 156, 7);
+}
+h4 + div {
+  background-color: #e8d71e;
+  padding-left: 20px;
+  margin-right: 60px;
+  margin-top: 0px;
+  margin-left: 60px;
+  border-bottom-left-radius: 10px;
+  box-shadow: 4px 6px rgb(141, 156, 7);
+}
+a {
+  text-decoration: none;
+  color: #e8d71e;
+  font-weight: 700;
+  font-size: 20px;
+  background-color: #0181bb;
+  padding: 5px;
+  padding-right: 20px;
+  border-radius: 5px;
+}
+a:hover {
+  background-color: #012f64;
+  font-size: 23px;
+  border-radius: 8px;
+  color: #dbe81e;
+  text-shadow: 0.5px 1px rgb(141, 156, 7);
+  font-weight: 1000;
+}
+.games {
+  text-align: center;
+  padding-bottom: 20px;
+}
+.games1 {
+  padding-right: 107px;
+}
+.games2 {
+  padding-right: 73.5px;
+}
+
+.games3 {
+  padding-right: 20px;
+}

@@ -1,0 +1,52 @@
+body {
+  background-color: #cce5ff;
+}
+.name {
+  background-color: #aefac5;
+  text-align: center;
+  margin: 80px 470px 0px 550px;
+  padding: 15px;
+  font-weight: 800;
+  font-size: 50px;
+  color: black;
+}
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 500px;
+  height: 500px;
+  background-color: black;
+  margin: -115px 550px 0px 550px;
+}
+
+.grid div {
+  width: 125px;
+  height: 125px;
+  background-color: #99ffff;
+  font-size: 60px;
+  text-align: center;
+  font-weight: bold;
+  border: 0px;
+  border-color: white;
+}
+
+.scorecontainer {
+  font-size: 40px;
+  background-color: #aefac5;
+  padding: 10px;
+  font-weight: 700;
+  text-align: center;
+  margin-left: 69%;
+  margin-bottom: 0px;
+  margin-right: 18%;
+  margin-top: 0px;
+}
+#result {
+  color: black;
+  text-align: center;
+  margin: 0px 470px 0px 550px;
+  padding: 0px;
+  font-weight: 800;
+  font-size: 50px;
+  background-color: #aefac5;
+}
